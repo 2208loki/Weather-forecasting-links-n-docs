@@ -9,3 +9,6 @@ Models created - https://drive.google.com/drive/folders/195g_X-cdNyCiBrfRRBspFPa
 - Data Pipeline: Developed a forecasting pipeline in Python, leveraging the NREL API to ingest and process 5 years of historical wind data (43,000+ records).
 - Data Denoising: Implemented Ensemble Empirical Mode Decomposition (EEMD) to perform advanced signal denoising and decomposition, to isolate Intrinsic Mode Functions (IMFs) from non-stationary, noisy data.
 - Model Architecture: Architected a sliding-window supervised learning system to benchmark nine models; the EEMD-CNN hybrid model achieved a 4.7% MAPE, significantly reducing forecasting errors compared to baseline LSTM models.
+
+
+![Recording 2026-02-03 155610](https://github.com/user-attachments/assets/b0acbb0a-ad8d-45b3-b490-41af5359149b)
